@@ -1,3 +1,6 @@
-##french-hot-chocolate
+# french-hot-chocolate
 
+
+## ingredients
+- Milk, prefferable whole
 
