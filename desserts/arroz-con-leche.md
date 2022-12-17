@@ -11,3 +11,9 @@ This recipe is for a Spanish version of rice pudding which I first made it with 
 - 1 egg yolk
 - Sprinkle of cinnamon, to taste
 
+## directions
+1. Add milk, rice, sugar, lemon peel, butter, and cinnamon stick to a large saucepan. Bring milk to a boil.
+2. Reduce heat, and simmer for about one hour, stirring often. Remove from heat. 
+3. Remove cinnamon stick and lemon peel. Add the egg yolk, and mix, preventing it from setting before fully incorporated. 
+4. Transfer to serving container, sprinkle with cinnamon, and let cool until just warm. 
+5. Enjoy!
