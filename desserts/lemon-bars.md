@@ -1,4 +1,4 @@
-# lemon-bars
+# lemon bars
 
 
 ## ingredients

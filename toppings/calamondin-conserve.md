@@ -1,4 +1,4 @@
-# calamondin-conserve
+# calamondin conserve
 
 ## ingredients 
 - calamondins
