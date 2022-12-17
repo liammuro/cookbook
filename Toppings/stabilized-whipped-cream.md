@@ -6,3 +6,7 @@
 - confectioners sugar
 
 
+
+
+## used in
+- [french-hot-chocolate](../beverages/french-hot-chocolate.md)

@@ -4,6 +4,6 @@
 ## ingredients
 - milk, preferably whole
 - chololate
-- [stabilized-whipped-cream](../Toppings/stabilized-whipped-cream.md)
+- [stabilized-whipped-cream](../toppings/stabilized-whipped-cream.md)
 
 
