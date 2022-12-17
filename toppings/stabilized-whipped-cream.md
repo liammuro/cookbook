@@ -1,4 +1,4 @@
-# stabilized-whipped-cream
+# stabilized whipped cream
 
 
 ## ingredients
