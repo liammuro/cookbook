@@ -1,5 +1,5 @@
 # lemon bars
-
+This recipe for lemon bars is particularly special to me because it is a go-to dessert for my grandmother, Roslyn, and me. Though we sometimes make it in the summer, some of my most fond memories of the dish are making them right before my grandparents’ annual three hundred plus person New Year’s Day party
 
 ## ingredients
 - 2 1/4 cups flour
