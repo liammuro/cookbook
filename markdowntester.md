@@ -1,12 +1,11 @@
 # markdowntester
 
-
 ## ingredients
+
 <details>
     <summary>Toggle Switch</summary>
     Foldable Content[enter image description here][1]
 </details>
-
 
 <button onclick="myFunction()">Click Me</button>
 
@@ -23,4 +22,14 @@
     }
 <script>
 
+<!-- Rectangular switch -->
+<label class="switch">
+  <input type="checkbox">
+  <span class="slider"></span>
+</label>
 
+<!-- Rounded switch -->
+<label class="switch">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
